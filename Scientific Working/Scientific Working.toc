@@ -1,0 +1,22 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Table of contents}{2}{0}{1}
+\beamer@sectionintoc {2}{Introduction}{3}{0}{2}
+\beamer@sectionintoc {3}{Methods}{5}{0}{3}
+\beamer@subsectionintoc {3}{1}{Process block diagram }{5}{0}{3}
+\beamer@subsectionintoc {3}{2}{Imaging of Volunteers}{6}{0}{3}
+\beamer@subsectionintoc {3}{3}{Imaging of Patients}{7}{0}{3}
+\beamer@subsectionintoc {3}{4}{Table: PATIENT SCANS}{8}{0}{3}
+\beamer@subsectionintoc {3}{5}{Image processing}{9}{0}{3}
+\beamer@subsectionintoc {3}{6}{Thickness Measurement}{10}{0}{3}
+\beamer@subsectionintoc {3}{7}{Impact of Acquisition Resolution}{10}{0}{3}
+\beamer@subsectionintoc {3}{8}{ Atlas Creation}{12}{0}{3}
+\beamer@sectionintoc {4}{Results}{13}{0}{4}
+\beamer@subsectionintoc {4}{1}{Imaging and Atrial wall thickness Maps}{13}{0}{4}
+\beamer@subsectionintoc {4}{2}{Atrial wall thickness in Patients}{14}{0}{4}
+\beamer@subsectionintoc {4}{3}{Atrial wall thickness in subjects}{15}{0}{4}
+\beamer@subsectionintoc {4}{4}{Atrial wall thickness Atlas}{16}{0}{4}
+\beamer@subsectionintoc {4}{5}{Comparison with Literature}{17}{0}{4}
+\beamer@subsectionintoc {4}{6}{Impact of Acquisition Resolution}{19}{0}{4}
+\beamer@sectionintoc {5}{Discussion}{20}{0}{5}
+\beamer@sectionintoc {6}{Conclusion}{24}{0}{6}
+\beamer@sectionintoc {7}{References}{25}{0}{7}
